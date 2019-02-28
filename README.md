@@ -1,2 +1,2 @@
-# public
-Public repo for GitFiend questions and issues
+# GitFiend Support
+Public repo for GitFiend questions and issues.
