@@ -1,0 +1,6 @@
+[submodule "gitfiend-core"]
+	path = gitfiend-core
+	url = https://github.com/GitFiend/gitfiend-core.git
+[submodule "gitfiend-shell"]
+	path = gitfiend-shell
+	url = https://github.com/GitFiend/gitfiend-shell.git
